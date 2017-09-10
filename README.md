@@ -20,5 +20,5 @@ result from draw_force.py
 
 ## Tips 
 1.Other files are shown in floder data . <br>
-2.Delete the section with a length greater than 15
+2.Delete the section with a length greater than 15 <br>
 3.DrawForce alignment file can refer to ./data/force.align
