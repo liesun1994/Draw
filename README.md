@@ -7,8 +7,14 @@
     python draw.py source_file target_file align_file fileout_path
 
 ## Sample
+result from draw.py
 <div align="center">
    <img alt="Alignment" src="./data/sample.jpg"><br><br>
+</div>
+
+result from draw_force.py
+<div align="center">
+   <img alt="AlignmentForce" src="./data/sample_force.jpg"><br><br>
 </div>
 
 ## Tips 
