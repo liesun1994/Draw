@@ -7,6 +7,10 @@
     python draw.py source_file target_file align_file fileout_path
 
 ## Sample
-     ![image](https://github.com/liesun1994/Draw/blob/master/data/sample.jpg)     
+<div align="center">
+   <img alt="Alignment" src="./data/sample.jpg"><br><br>
+</div>
+
 ## Tips 
-other files are shown in floder data . 
+1.Other files are shown in floder data . 
+2.Delete the section with a length greater than 15
